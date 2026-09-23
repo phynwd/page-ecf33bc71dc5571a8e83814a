@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--nanoport-le7n539j.com/sitemap.xml
